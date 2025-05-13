@@ -3,6 +3,8 @@
 
 NB: Working repository is still private, this repository was made public with permission from all who worked on the original project and contains the latest stable version of the program 
 
+`.jar` with latest build can be found in "Builds" folder
+
 ## Introduction
 
 Welcome to the **L&R^2 Bakery Inventory System**! This system helps manage the inventory of various bakery products, including adding new orders, deliveries and managing the inventory through a simple graphical user interface (GUI). This document will guide you through the different sections and functionalities of the system.
